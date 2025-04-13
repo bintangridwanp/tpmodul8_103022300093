@@ -1,0 +1,16 @@
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/bin/Debug/net9.0/tpmodul8_103022300093
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/bin/Debug/net9.0/tpmodul8_103022300093.deps.json
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/bin/Debug/net9.0/tpmodul8_103022300093.runtimeconfig.json
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/bin/Debug/net9.0/tpmodul8_103022300093.dll
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/bin/Debug/net9.0/tpmodul8_103022300093.pdb
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/tpmodul8_103022300093.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/tpmodul8_103022300093.AssemblyInfoInputs.cache
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/tpmodul8_103022300093.AssemblyInfo.cs
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/tpmodul8_103022300093.csproj.CoreCompileInputs.cache
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/tpmodul8_103022300093.sourcelink.json
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/tpmodul8_103022300093.dll
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/refint/tpmodul8_103022300093.dll
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/tpmodul8_103022300093.pdb
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/tpmodul8_103022300093.genruntimeconfig.cache
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/obj/Debug/net9.0/ref/tpmodul8_103022300093.dll
+/Users/bintang/Documents/GitHub/tpmodul8_103022300093/tpmodul8_103022300093/tpmodul8_103022300093/bin/Debug/net9.0/covid_config.json
